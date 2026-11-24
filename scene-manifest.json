@@ -1848,5 +1848,165 @@
     "asset": "assets/mth07-ch09-sc16.webp",
     "status": "integrated",
     "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch10-sc01",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p1",
+    "source_text": "Birds sang. The air was soft and warm.",
+    "asset": "assets/mth07-ch10-sc01.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc02",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p3",
+    "source_text": "“Me too,” said Jack. He pushed his glasses into place.",
+    "asset": "assets/mth07-ch10-sc02.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc03",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p5",
+    "source_text": "“Hey, you—how did you find the sorcerer?” Annie asked Peanut.",
+    "asset": "assets/mth07-ch10-sc03.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc04",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p6",
+    "source_text": "Squeak.",
+    "asset": "assets/mth07-ch10-sc04.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc05",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p8",
+    "source_text": "He held up the mammoth bone. Then he placed it on the M carved into the floor. Next to the mango from the rain forest. Next to the moonstone from the time of ninjas.",
+    "asset": "assets/mth07-ch10-sc05.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc06",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p9",
+    "source_text": "“Moonstone, mango, mammoth bone … ” Annie said. “We need just one more M thing. Then Morgan will be free from her spell.”",
+    "asset": "assets/mth07-ch10-sc06.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc07",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p10",
+    "source_text": "“Tomorrow,” said Jack.",
+    "asset": "assets/mth07-ch10-sc07.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc08",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p11",
+    "source_text": "Annie patted Peanut on the head. “Bye, you,” she said.",
+    "asset": "assets/mth07-ch10-sc08.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc09",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p12",
+    "source_text": "She started down the rope ladder.",
+    "asset": "assets/mth07-ch10-sc09.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc10",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p16",
+    "source_text": "Then he climbed down the rope ladder and jumped onto the ground.",
+    "asset": "assets/mth07-ch10-sc10.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc11",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p19",
+    "source_text": "It’s great to be back in this age, Jack thought. Warm and safe and almost home.",
+    "asset": "assets/mth07-ch10-sc11.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc12",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p20",
+    "source_text": "“I’m glad we don’t have to go hunting for dinner,” he said.",
+    "asset": "assets/mth07-ch10-sc12.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc13",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p23",
+    "source_text": "“I hope they trapped a pizza,” said Annie.",
+    "asset": "assets/mth07-ch10-sc13.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc14",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p25",
+    "source_text": "They ran up their sidewalk and through their front door.",
+    "asset": "assets/mth07-ch10-sc14.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc15",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p26",
+    "source_text": "“We’re home!” shouted Annie.",
+    "asset": "assets/mth07-ch10-sc15.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
+  },
+  {
+    "id": "mth07-ch10-sc16",
+    "chapter": 10,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p27",
+    "source_text": "“What’s for dinner?” shouted Jack.",
+    "asset": "assets/mth07-ch10-sc16.webp",
+    "status": "integrated",
+    "review": "All 16 panels and red gutter overlay visually checked; Peanut stays in treehouse and M objects remain together."
   }
 ]
