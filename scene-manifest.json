@@ -158,5 +158,145 @@
     "asset": "assets/mth07-ch01-sc16.webp",
     "status": "integrated",
     "review": "Actual panel content matched to original paragraph; gutter overlay visually checked."
+  },
+  {
+    "id": "mth07-ch01-sc17",
+    "chapter": 1,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p19",
+    "source_text": "“Sorry we didn’t come sooner,” Annie said. “But we had to go to our swimming lesson.”",
+    "asset": "assets/mth07-ch01-sc17.webp",
+    "status": "integrated",
+    "review": "Actual gutters and all panels reviewed; two inconsistent panels excluded."
+  },
+  {
+    "id": "mth07-ch01-sc18",
+    "chapter": 1,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p20",
+    "source_text": "Squeak.",
+    "asset": "assets/mth07-ch01-sc18.webp",
+    "status": "integrated",
+    "review": "Actual gutters and all panels reviewed; two inconsistent panels excluded."
+  },
+  {
+    "id": "mth07-ch01-sc19",
+    "chapter": 1,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p21",
+    "source_text": "“What happened while we were gone?” asked Annie, looking around the tree house.",
+    "asset": "assets/mth07-ch01-sc19.webp",
+    "status": "integrated",
+    "review": "Actual gutters and all panels reviewed; two inconsistent panels excluded."
+  },
+  {
+    "id": "mth07-ch01-sc20",
+    "chapter": 1,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p22",
+    "source_text": "Jack stared at the large M carved into the wooden floor.",
+    "asset": "assets/mth07-ch01-sc20.webp",
+    "status": "integrated",
+    "review": "Actual gutters and all panels reviewed; two inconsistent panels excluded."
+  },
+  {
+    "id": "mth07-ch01-sc21",
+    "chapter": 1,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p23",
+    "source_text": "On the M were a moonstone and a mango, the special things they’d found on their last two journeys.",
+    "asset": "assets/mth07-ch01-sc21.webp",
+    "status": "integrated",
+    "review": "Actual gutters and all panels reviewed; two inconsistent panels excluded."
+  },
+  {
+    "id": "mth07-ch01-sc23",
+    "chapter": 1,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p27",
+    "source_text": "“Right,” said Annie. “I wonder where we’ll find the next one.”",
+    "asset": "assets/mth07-ch01-sc23.webp",
+    "status": "integrated",
+    "review": "Actual gutters and all panels reviewed; two inconsistent panels excluded."
+  },
+  {
+    "id": "mth07-ch01-sc24",
+    "chapter": 1,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p28",
+    "source_text": "She and Jack stared at the stacks of books in the tree house. Books on the Amazon rain forest, ninjas, pirates, mummies, knights, and dinosaurs.",
+    "asset": "assets/mth07-ch01-sc24.webp",
+    "status": "integrated",
+    "review": "Actual gutters and all panels reviewed; two inconsistent panels excluded."
+  },
+  {
+    "id": "mth07-ch01-sc25",
+    "chapter": 1,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p29",
+    "source_text": "All of them were closed. Only one book lay open in the corner.",
+    "asset": "assets/mth07-ch01-sc25.webp",
+    "status": "integrated",
+    "review": "Actual gutters and all panels reviewed; two inconsistent panels excluded."
+  },
+  {
+    "id": "mth07-ch01-sc27",
+    "chapter": 1,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p32",
+    "source_text": "They looked at the page the book was opened to. It showed a picture of rocks and snow.",
+    "asset": "assets/mth07-ch01-sc27.webp",
+    "status": "integrated",
+    "review": "Actual gutters and all panels reviewed; two inconsistent panels excluded."
+  },
+  {
+    "id": "mth07-ch01-sc28",
+    "chapter": 1,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p33",
+    "source_text": "“Wow,” said Annie, running her finger over the picture. “I love snow. I wish we could go there right now.”",
+    "asset": "assets/mth07-ch01-sc28.webp",
+    "status": "integrated",
+    "review": "Actual gutters and all panels reviewed; two inconsistent panels excluded."
+  },
+  {
+    "id": "mth07-ch01-sc29",
+    "chapter": 1,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p34",
+    "source_text": "“Wait,” said Jack. “We’re not prepared.” Then he had another thought. “And we’re wearing our bathing suits! Stop!”",
+    "asset": "assets/mth07-ch01-sc29.webp",
+    "status": "integrated",
+    "review": "Actual gutters and all panels reviewed; two inconsistent panels excluded."
+  },
+  {
+    "id": "mth07-ch01-sc30",
+    "chapter": 1,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p36",
+    "source_text": "Too late. The wind started to blow.",
+    "asset": "assets/mth07-ch01-sc30.webp",
+    "status": "integrated",
+    "review": "Actual gutters and all panels reviewed; two inconsistent panels excluded."
+  },
+  {
+    "id": "mth07-ch01-sc31",
+    "chapter": 1,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p38",
+    "source_text": "The tree house started to spin.",
+    "asset": "assets/mth07-ch01-sc31.webp",
+    "status": "integrated",
+    "review": "Actual gutters and all panels reviewed; two inconsistent panels excluded."
+  },
+  {
+    "id": "mth07-ch01-sc32",
+    "chapter": 1,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p41",
+    "source_text": "It was as silent as the falling snow.",
+    "asset": "assets/mth07-ch01-sc32.webp",
+    "status": "integrated",
+    "review": "Actual gutters and all panels reviewed; two inconsistent panels excluded."
   }
 ]
