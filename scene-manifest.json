@@ -1048,5 +1048,95 @@
     "asset": "assets/mth07-ch04-b2-sc16.webp",
     "status": "integrated",
     "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch05-sc05",
+    "chapter": 5,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p5",
+    "source_text": "These Ice Age beasts were painted 25,000 years ago. Cro-Magnons painted pictures of animals they hunted. They may have believed the paintings would give them power over the animals.",
+    "asset": "assets/mth07-ch05-sc05.webp",
+    "status": "integrated",
+    "review": "Actual gutter overlay checked; panels with extra lamps and incorrect cave excluded."
+  },
+  {
+    "id": "mth07-ch05-sc07",
+    "chapter": 5,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p8",
+    "source_text": "It showed a figure with human arms and legs, reindeer antlers, and an owl face. It seemed to be holding a flute.",
+    "asset": "assets/mth07-ch05-sc07.webp",
+    "status": "integrated",
+    "review": "Actual gutter overlay checked; panels with extra lamps and incorrect cave excluded."
+  },
+  {
+    "id": "mth07-ch05-sc08",
+    "chapter": 5,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p9",
+    "source_text": "Jack looked at the book again. He found a picture of the figure and read:",
+    "asset": "assets/mth07-ch05-sc08.webp",
+    "status": "integrated",
+    "review": "Actual gutter overlay checked; panels with extra lamps and incorrect cave excluded."
+  },
+  {
+    "id": "mth07-ch05-sc09",
+    "chapter": 5,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p11",
+    "source_text": "“What is it?” said Annie.",
+    "asset": "assets/mth07-ch05-sc09.webp",
+    "status": "integrated",
+    "review": "Actual gutter overlay checked; panels with extra lamps and incorrect cave excluded."
+  },
+  {
+    "id": "mth07-ch05-sc10",
+    "chapter": 5,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p12",
+    "source_text": "“The Master of the Animals,” said Jack. “He’s a sorcerer.”",
+    "asset": "assets/mth07-ch05-sc10.webp",
+    "status": "integrated",
+    "review": "Actual gutter overlay checked; panels with extra lamps and incorrect cave excluded."
+  },
+  {
+    "id": "mth07-ch05-sc11",
+    "chapter": 5,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p19",
+    "source_text": "“Let’s go find him,” said Annie.",
+    "asset": "assets/mth07-ch05-sc11.webp",
+    "status": "integrated",
+    "review": "Actual gutter overlay checked; panels with extra lamps and incorrect cave excluded."
+  },
+  {
+    "id": "mth07-ch05-sc13",
+    "chapter": 5,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p22",
+    "source_text": "He and Annie blew out their lamps.",
+    "asset": "assets/mth07-ch05-sc13.webp",
+    "status": "integrated",
+    "review": "Actual gutter overlay checked; panels with extra lamps and incorrect cave excluded."
+  },
+  {
+    "id": "mth07-ch05-sc15",
+    "chapter": 5,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p24",
+    "source_text": "Jack’s backpack was on the floor next to the skins. He put the Ice Age book into it.",
+    "asset": "assets/mth07-ch05-sc15.webp",
+    "status": "integrated",
+    "review": "Actual gutter overlay checked; panels with extra lamps and incorrect cave excluded."
+  },
+  {
+    "id": "mth07-ch05-sc16",
+    "chapter": 5,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p35",
+    "source_text": "In the snow were tiny tracks.",
+    "asset": "assets/mth07-ch05-sc16.webp",
+    "status": "integrated",
+    "review": "Actual gutter overlay checked; panels with extra lamps and incorrect cave excluded."
   }
 ]
