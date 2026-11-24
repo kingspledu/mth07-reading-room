@@ -5,10 +5,11 @@
   "integrated_scenes": 0,
   "remaining_preliminary_batches": 21,
   "character_reference": "Book4 actual visual sheet",
-  "image_generation_status": "not_started",
+  "image_generation_status": "character_sheets_partial_body_not_started",
   "public_deployment_authorized": true,
   "status": "text_ready_illustrations_pending",
   "remaining_preliminary_batches_min": 21,
   "remaining_preliminary_batches_max": 29,
-  "browser_qa": "pending"
+  "browser_qa": "pending",
+  "character_sheets": 3
 }
