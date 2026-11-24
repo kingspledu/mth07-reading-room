@@ -608,5 +608,285 @@
     "asset": "assets/mth07-ch02-b2-sc16.webp",
     "status": "integrated",
     "review": "All panels and actual gutter overlays visually checked; goggles continuity error b2 panel11 excluded."
+  },
+  {
+    "id": "mth07-ch03-sc02",
+    "chapter": 3,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p3",
+    "source_text": "He put his book quietly into his pack. He stepped deeper into the cave.",
+    "asset": "assets/mth07-ch03-sc02.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch03-sc03",
+    "chapter": 3,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p7",
+    "source_text": "He kept going, deeper into the smelly blackness.",
+    "asset": "assets/mth07-ch03-sc03.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch03-sc04",
+    "chapter": 3,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p9",
+    "source_text": "“Jack?” said Annie. “Is that you?”",
+    "asset": "assets/mth07-ch03-sc04.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch03-sc05",
+    "chapter": 3,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p10",
+    "source_text": "“Didn’t you hear me calling?” Jack whispered. “We have to get out of here!”",
+    "asset": "assets/mth07-ch03-sc05.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch03-sc06",
+    "chapter": 3,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p12",
+    "source_text": "Jack heard a low, deep moaning. It was loud, then soft. Loud, then soft.",
+    "asset": "assets/mth07-ch03-sc06.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch03-sc07",
+    "chapter": 3,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p14",
+    "source_text": "A booming snore shattered the air.",
+    "asset": "assets/mth07-ch03-sc07.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch03-sc08",
+    "chapter": 3,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p16",
+    "source_text": "“Go! Go!” said Jack.",
+    "asset": "assets/mth07-ch03-sc08.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch03-sc09",
+    "chapter": 3,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p17",
+    "source_text": "He and Annie ran through the cave, over the bones, and out into the falling snow.",
+    "asset": "assets/mth07-ch03-sc09.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch03-sc10",
+    "chapter": 3,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p18",
+    "source_text": "They kept on going. They ran between fallen rocks and under jagged cliffs.",
+    "asset": "assets/mth07-ch03-sc10.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch03-sc11",
+    "chapter": 3,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p21",
+    "source_text": "No bear.",
+    "asset": "assets/mth07-ch03-sc11.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch03-sc12",
+    "chapter": 3,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p23",
+    "source_text": "“Yeah,” said Jack. “He probably never even woke up. We just got in a panic.”",
+    "asset": "assets/mth07-ch03-sc12.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch03-sc14",
+    "chapter": 3,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p26",
+    "source_text": "He took off his glasses to wipe off the snow. The cold wind blew against his bare legs.",
+    "asset": "assets/mth07-ch03-sc14.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch03-sc15",
+    "chapter": 3,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p28",
+    "source_text": "“What?” Jack put his glasses back on and turned around.",
+    "asset": "assets/mth07-ch03-sc15.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch03-sc16",
+    "chapter": 3,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p31",
+    "source_text": "This one looked cozy and safe and warm.",
+    "asset": "assets/mth07-ch03-sc16.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-sc02",
+    "chapter": 4,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p3",
+    "source_text": "Near the fire were knives, axes, and hollowed-out stones.",
+    "asset": "assets/mth07-ch04-sc02.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-sc03",
+    "chapter": 4,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p4",
+    "source_text": "Animal skins were neatly stacked against the wall.",
+    "asset": "assets/mth07-ch04-sc03.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-sc04",
+    "chapter": 4,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p8",
+    "source_text": "Jack and Annie moved quickly to the fire and warmed their hands.",
+    "asset": "assets/mth07-ch04-sc04.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-sc05",
+    "chapter": 4,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p9",
+    "source_text": "Their shadows danced on the stone walls.",
+    "asset": "assets/mth07-ch04-sc05.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-sc07",
+    "chapter": 4,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p13",
+    "source_text": "Cro-Magnons made:\nbone flutes\nplant ropes\nstone axes and knives",
+    "asset": "assets/mth07-ch04-sc07.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-sc08",
+    "chapter": 4,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p16",
+    "source_text": "It had a hood and long sleeves. It went all the way down to her sneakers.",
+    "asset": "assets/mth07-ch04-sc08.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-sc09",
+    "chapter": 4,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p20",
+    "source_text": "“Try one. It’s really warm,” she said.",
+    "asset": "assets/mth07-ch04-sc09.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-sc10",
+    "chapter": 4,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p21",
+    "source_text": "Jack put his backpack and towel down on the hard dirt floor. He slipped on the coat.",
+    "asset": "assets/mth07-ch04-sc10.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-sc11",
+    "chapter": 4,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p23",
+    "source_text": "“We look like cave kids,” said Annie.",
+    "asset": "assets/mth07-ch04-sc11.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-sc12",
+    "chapter": 4,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p25",
+    "source_text": "“You stay in there,” said Annie. “There’s no teeny coat for you.”",
+    "asset": "assets/mth07-ch04-sc12.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-sc13",
+    "chapter": 4,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p26",
+    "source_text": "Peanut vanished back into the pack.",
+    "asset": "assets/mth07-ch04-sc13.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-sc14",
+    "chapter": 4,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p29",
+    "source_text": "Cro-Magnons scraped reindeer skins with flint rocks to make them soft. They used bone needles to sew the skins together for clothing.",
+    "asset": "assets/mth07-ch04-sc14.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-sc15",
+    "chapter": 4,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p31",
+    "source_text": "reindeer-skin clothes",
+    "asset": "assets/mth07-ch04-sc15.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-sc16",
+    "chapter": 4,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p36",
+    "source_text": "They left their gifts on top of the rest of the animal skins.",
+    "asset": "assets/mth07-ch04-sc16.webp",
+    "status": "integrated",
+    "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
   }
 ]
