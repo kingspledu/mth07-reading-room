@@ -1,0 +1,82 @@
+{
+  "antlers": {
+    "ko": "가지처럼 갈라진 뿔",
+    "definition": "The branched horns of a deer."
+  },
+  "sorcerer": {
+    "ko": "마법사",
+    "definition": "A person believed to have magical powers."
+  },
+  "shaggy": {
+    "ko": "털이 길고 덥수룩한",
+    "definition": "Covered with long, rough hair."
+  },
+  "tusks": {
+    "ko": "길게 뻗은 엄니",
+    "definition": "Long pointed teeth that grow outside an animal’s mouth."
+  },
+  "fangs": {
+    "ko": "날카롭고 긴 송곳니",
+    "definition": "Long sharp teeth used for biting."
+  },
+  "goggles": {
+    "ko": "수경",
+    "definition": "Special glasses that protect your eyes."
+  },
+  "chattered": {
+    "ko": "추워서 이가 딱딱 부딪쳤다",
+    "definition": "Made quick repeated clicking sounds."
+  },
+  "tracks": {
+    "ko": "눈에 남은 발자국",
+    "definition": "Marks left by a moving person or animal."
+  },
+  "herd": {
+    "ko": "동물의 무리",
+    "definition": "A group of animals that live or move together."
+  },
+  "clutched": {
+    "ko": "꽉 붙잡았다",
+    "definition": "Held something tightly."
+  },
+  "gripped": {
+    "ko": "단단히 잡았다",
+    "definition": "Held firmly with the hands."
+  },
+  "peered": {
+    "ko": "자세히 들여다보았다",
+    "definition": "Looked closely or carefully."
+  },
+  "vanished": {
+    "ko": "사라졌다",
+    "definition": "Disappeared from sight."
+  },
+  "trembled": {
+    "ko": "떨렸다",
+    "definition": "Shook slightly from cold or fear."
+  },
+  "flute": {
+    "ko": "피리",
+    "definition": "A musical instrument played by blowing air into it."
+  },
+  "bones": {
+    "ko": "뼈",
+    "definition": "The hard parts that form a body’s skeleton."
+  },
+  "pit": {
+    "ko": "깊은 구덩이",
+    "definition": "A deep hole in the ground."
+  },
+  "robe": {
+    "ko": "길게 내려오는 겉옷",
+    "definition": "A long loose piece of clothing."
+  },
+  "braiding": {
+    "ko": "꼬아 엮기",
+    "definition": "Weaving strands together."
+  },
+  "reindeer": {
+    "ko": "순록",
+    "definition": "A deer with large antlers that lives in cold places."
+  }
+}
