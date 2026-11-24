@@ -2,20 +2,20 @@
   "book": 7,
   "parts": 13,
   "text_verified": true,
-  "integrated_scenes": 156,
-  "remaining_preliminary_batches": 10,
+  "integrated_scenes": 185,
+  "remaining_preliminary_batches": 8,
   "character_reference": "Book4 actual visual sheet",
   "image_generation_status": "body_in_progress",
   "public_deployment_authorized": true,
   "status": "illustrations_in_progress",
-  "remaining_preliminary_batches_min": 10,
-  "remaining_preliminary_batches_max": 18,
+  "remaining_preliminary_batches_min": 8,
+  "remaining_preliminary_batches_max": 16,
   "browser_qa": "pending",
   "character_sheets": 5,
   "environment_sheets": 1,
   "cast_correction": "Chapter 4 Cave Kids means Jack and Annie in borrowed coats; Chapter 9 has four unnamed Cro-Magnon people",
   "prop_state_sheet": true,
-  "completed_body_batches": 11,
+  "completed_body_batches": 13,
   "excluded_panels": [
     "ch01-sc22 barefoot",
     "ch01-sc26 book location drift",
@@ -24,6 +24,7 @@
     "ch03-sc13 missing glasses",
     "ch04-sc01 green exterior",
     "ch04-sc06 premature wall paintings",
-    "chapter07 batch2 panels 3,7-11: riding continuity"
+    "chapter07 batch2 panels 3,7-11: riding continuity",
+    "chapter09 panels 10,12,15: riding and clothing continuity"
   ]
 }

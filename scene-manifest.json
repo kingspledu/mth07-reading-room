@@ -1558,5 +1558,295 @@
     "asset": "assets/mth07-ch07-b2-sc16.webp",
     "status": "integrated",
     "review": "Gutter overlays visually checked; six inconsistent riding panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc01",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p1",
+    "source_text": "The huge mammoth walked across the open plain.",
+    "asset": "assets/mth07-ch08-sc01.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc02",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p2",
+    "source_text": "“Look!” said Annie. She pointed to a herd of elk in the distance. They had great, wide antlers.",
+    "asset": "assets/mth07-ch08-sc02.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc03",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p3",
+    "source_text": "“There!” said Jack as a herd of reindeer came into view. They pranced gracefully across the snow.",
+    "asset": "assets/mth07-ch08-sc03.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc04",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p4",
+    "source_text": "Then a woolly rhino joined them on the open plain. Then a bison!",
+    "asset": "assets/mth07-ch08-sc04.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc05",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p5",
+    "source_text": "The elk, reindeer, rhino, and bison moved along with them, at a distance.",
+    "asset": "assets/mth07-ch08-sc05.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc06",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p8",
+    "source_text": "This is a great parade, Jack thought. Fantastic.",
+    "asset": "assets/mth07-ch08-sc06.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc07",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p9",
+    "source_text": "They were getting closer and closer to the grove of tall trees.",
+    "asset": "assets/mth07-ch08-sc07.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc08",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p10",
+    "source_text": "“I told you,” said Annie. “Lulu’s taking us home.”",
+    "asset": "assets/mth07-ch08-sc08.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc09",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p11",
+    "source_text": "But just then the mammoth let out a cry. All the other animals bounded off.",
+    "asset": "assets/mth07-ch08-sc09.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc10",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p12",
+    "source_text": "Peanut started to squeak.",
+    "asset": "assets/mth07-ch08-sc10.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc11",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p13",
+    "source_text": "Jack looked around.",
+    "asset": "assets/mth07-ch08-sc11.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc12",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p14",
+    "source_text": "Behind them the sabertooth was slinking across the sunlit snow!",
+    "asset": "assets/mth07-ch08-sc12.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc13",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p17",
+    "source_text": "Jack clutched Annie. She and Peanut clutched the mammoth’s shaggy hair.",
+    "asset": "assets/mth07-ch08-sc13.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc14",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p20",
+    "source_text": "The mammoth charged to the grove of trees.",
+    "asset": "assets/mth07-ch08-sc14.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc15",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p21",
+    "source_text": "But the tiger had circled around the trees. He stood between the tallest tree and the mammoth.",
+    "asset": "assets/mth07-ch08-sc15.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch08-sc16",
+    "chapter": 8,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p26",
+    "source_text": "The huge tiger’s head was down. His burning eyes were fixed on the mammoth. His long white fangs glinted in the sunlight.",
+    "asset": "assets/mth07-ch08-sc16.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch09-sc01",
+    "chapter": 9,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p1",
+    "source_text": "The sabertooth crept forward.",
+    "asset": "assets/mth07-ch09-sc01.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch09-sc02",
+    "chapter": 9,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p3",
+    "source_text": "“Play the flute,” whispered Annie.",
+    "asset": "assets/mth07-ch09-sc02.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch09-sc03",
+    "chapter": 9,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p6",
+    "source_text": "Jack held the mammoth-bone flute to his lips. He blew.",
+    "asset": "assets/mth07-ch09-sc03.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch09-sc04",
+    "chapter": 9,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p8",
+    "source_text": "The tiger froze. He glared at Jack.",
+    "asset": "assets/mth07-ch09-sc04.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch09-sc05",
+    "chapter": 9,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p11",
+    "source_text": "The mammoth roared and stomped the ground.",
+    "asset": "assets/mth07-ch09-sc05.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch09-sc06",
+    "chapter": 9,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p18",
+    "source_text": "Jack closed his eyes. He took a deep breath. Then he blew as hard and as long as he could. He covered and uncovered the holes on the bone.",
+    "asset": "assets/mth07-ch09-sc06.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch09-sc07",
+    "chapter": 9,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p21",
+    "source_text": "Jack raised his eyes. The sabertooth was slinking off toward the cliffs.",
+    "asset": "assets/mth07-ch09-sc07.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch09-sc08",
+    "chapter": 9,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p24",
+    "source_text": "The mammoth waved her trunk happily.",
+    "asset": "assets/mth07-ch09-sc08.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch09-sc09",
+    "chapter": 9,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p26",
+    "source_text": "The woolly mammoth snorted. Then she lumbered over to the tallest tree.",
+    "asset": "assets/mth07-ch09-sc09.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch09-sc11",
+    "chapter": 9,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p29",
+    "source_text": "Annie grabbed the rope ladder. Then she started up. Peanut climbed up, too.",
+    "asset": "assets/mth07-ch09-sc11.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch09-sc13",
+    "chapter": 9,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p32",
+    "source_text": "The mammoth walked away into the sunset.",
+    "asset": "assets/mth07-ch09-sc13.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch09-sc14",
+    "chapter": 9,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p34",
+    "source_text": "“Ta-da!” said Annie. She handed the Pennsylvania book to Jack.",
+    "asset": "assets/mth07-ch09-sc14.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
+  },
+  {
+    "id": "mth07-ch09-sc16",
+    "chapter": 9,
+    "part": 1,
+    "insert_after_paragraph_id": "part-p46",
+    "source_text": "The tallest person stepped forward and raised a spear.",
+    "asset": "assets/mth07-ch09-sc16.webp",
+    "status": "integrated",
+    "review": "Gutter overlays and all panels inspected; three riding and clothing continuity panels excluded."
   }
 ]
