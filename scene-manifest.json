@@ -888,5 +888,165 @@
     "asset": "assets/mth07-ch04-sc16.webp",
     "status": "integrated",
     "review": "Actual panel boundaries visually reviewed. Header removed from ch3; premature Annie reveal, missing glasses, green exterior and premature paintings excluded."
+  },
+  {
+    "id": "mth07-ch04-b2-sc01",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p2",
+    "source_text": "“It’s too dark in the back,” said Annie. “We won’t be able to see anything.”",
+    "asset": "assets/mth07-ch04-b2-sc01.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc02",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p4",
+    "source_text": "He opened the Ice Age book. He found a picture of cave people holding odd-looking lamps. He read aloud to Annie:",
+    "asset": "assets/mth07-ch04-b2-sc02.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc03",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p6",
+    "source_text": "“There!” said Annie. She pointed to two stones near the fire. In the hollow of each was gooey white stuff and a pile of moss.",
+    "asset": "assets/mth07-ch04-b2-sc03.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc04",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p8",
+    "source_text": "He picked up one stone. It was smaller than a soup bowl, but much heavier.",
+    "asset": "assets/mth07-ch04-b2-sc04.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc05",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p9",
+    "source_text": "Jack held the stone close to the fire and lit the piece of moss.",
+    "asset": "assets/mth07-ch04-b2-sc05.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc06",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p10",
+    "source_text": "He lit another lamp and gave it to Annie.",
+    "asset": "assets/mth07-ch04-b2-sc06.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc07",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p11",
+    "source_text": "“Carry it with two hands,” he said.",
+    "asset": "assets/mth07-ch04-b2-sc07.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc08",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p13",
+    "source_text": "Jack tucked the book under his arm. He and Annie carried their stone lamps to the back of the cave.",
+    "asset": "assets/mth07-ch04-b2-sc08.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc09",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p14",
+    "source_text": "“Hey, I wonder where this goes,” said Annie. She held her lamp up to an opening in the wall.",
+    "asset": "assets/mth07-ch04-b2-sc09.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc10",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p16",
+    "source_text": "He put down his lamp and flipped through the Ice Age book.",
+    "asset": "assets/mth07-ch04-b2-sc10.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc11",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p19",
+    "source_text": "Too late—she had squeezed into the opening and was gone.",
+    "asset": "assets/mth07-ch04-b2-sc11.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc12",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p21",
+    "source_text": "He closed his book and peeked into the opening.",
+    "asset": "assets/mth07-ch04-b2-sc12.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc13",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p24",
+    "source_text": "Jack picked up his lamp and book. He ducked into a small tunnel.",
+    "asset": "assets/mth07-ch04-b2-sc13.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc14",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p27",
+    "source_text": "Crouching clown, he hurried toward her. At the end of the tunnel was a huge cavern with a high ceiling.",
+    "asset": "assets/mth07-ch04-b2-sc14.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc15",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p29",
+    "source_text": "“Look,” she said. Her voice echoed.",
+    "asset": "assets/mth07-ch04-b2-sc15.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
+  },
+  {
+    "id": "mth07-ch04-b2-sc16",
+    "chapter": 4,
+    "part": 2,
+    "insert_after_paragraph_id": "part-p32",
+    "source_text": "In the flickering light, the prehistoric beasts looked alive.",
+    "asset": "assets/mth07-ch04-b2-sc16.webp",
+    "status": "integrated",
+    "review": "All 16 actual tiles and red gutter overlay reviewed; lamp sequence and wall-painting reveal checked."
   }
 ]
