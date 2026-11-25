@@ -450,5 +450,325 @@
   "neck": {
     "ko": "목",
     "definition": "The part joining the head to the body."
+  },
+  "said": {
+    "ko": "말했다",
+    "definition": "Spoke words."
+  },
+  "asked": {
+    "ko": "물었다",
+    "definition": "Spoke to get an answer."
+  },
+  "Squeak": {
+    "ko": "찍찍",
+    "definition": "A short high sound made by a mouse."
+  },
+  "Sq-squeak": {
+    "ko": "추워 떨며 찍찍",
+    "definition": "A broken high mouse sound suggesting cold."
+  },
+  "Oops": {
+    "ko": "아차",
+    "definition": "An expression used after a small mistake."
+  },
+  "Yikes": {
+    "ko": "으악",
+    "definition": "An expression of fear or surprise."
+  },
+  "answer": {
+    "ko": "대답",
+    "definition": "Words spoken in reply to a question."
+  },
+  "looked": {
+    "ko": "보았다",
+    "definition": "Directed the eyes toward something."
+  },
+  "started": {
+    "ko": "시작했다",
+    "definition": "Began doing something."
+  },
+  "turned": {
+    "ko": "돌아섰다",
+    "definition": "Changed the direction of the body or an object."
+  },
+  "ran": {
+    "ko": "달렸다",
+    "definition": "Moved quickly on foot."
+  },
+  "stopped": {
+    "ko": "멈췄다",
+    "definition": "No longer moved or continued."
+  },
+  "put": {
+    "ko": "놓았다",
+    "definition": "Moved something into a place."
+  },
+  "went": {
+    "ko": "갔다",
+    "definition": "Moved to another place."
+  },
+  "was": {
+    "ko": "~이었다",
+    "definition": "Describes a state in the past."
+  },
+  "were": {
+    "ko": "~이었다",
+    "definition": "Describes the past state of more than one person or thing."
+  },
+  "is": {
+    "ko": "~이다",
+    "definition": "Describes a present state."
+  },
+  "They": {
+    "ko": "그들은",
+    "definition": "Refers to people or things already mentioned."
+  },
+  "He": {
+    "ko": "그는",
+    "definition": "Refers to a boy or man already mentioned."
+  },
+  "She": {
+    "ko": "그녀는",
+    "definition": "Refers to a girl or woman already mentioned."
+  },
+  "It": {
+    "ko": "그것은",
+    "definition": "Refers to a thing or animal already mentioned."
+  },
+  "No": {
+    "ko": "아니",
+    "definition": "A word giving a negative answer."
+  },
+  "Yes": {
+    "ko": "응",
+    "definition": "A word expressing agreement."
+  },
+  "Then": {
+    "ko": "그런 다음",
+    "definition": "After that time or event."
+  },
+  "Finally": {
+    "ko": "마침내",
+    "definition": "After a wait or several events."
+  },
+  "wind": {
+    "ko": "바람",
+    "definition": "Moving air."
+  },
+  "leaves": {
+    "ko": "나뭇잎들",
+    "definition": "The flat green parts of a plant."
+  },
+  "spin": {
+    "ko": "빙빙 돌다",
+    "definition": "To turn around quickly."
+  },
+  "spun": {
+    "ko": "빙빙 돌았다",
+    "definition": "Turned around quickly."
+  },
+  "falling": {
+    "ko": "떨어지는",
+    "definition": "Moving down through the air."
+  },
+  "snow": {
+    "ko": "눈",
+    "definition": "Soft white frozen water falling from clouds."
+  },
+  "outside": {
+    "ko": "밖을",
+    "definition": "In or toward a place beyond a building."
+  },
+  "away": {
+    "ko": "멀리",
+    "definition": "At a distance from a place."
+  },
+  "back": {
+    "ko": "다시 돌아가",
+    "definition": "Toward an earlier place or position."
+  },
+  "head": {
+    "ko": "머리",
+    "definition": "The body part above the neck."
+  },
+  "Oh": {
+    "ko": "아",
+    "definition": "An expression of surprise or realization."
+  },
+  "Go": {
+    "ko": "가",
+    "definition": "Move to another place."
+  },
+  "Nothing": {
+    "ko": "아무것도 없음",
+    "definition": "Not a single thing."
+  },
+  "Help": {
+    "ko": "도와줘",
+    "definition": "A request for assistance."
+  },
+  "Wow": {
+    "ko": "와",
+    "definition": "An expression of amazement."
+  },
+  "Sure": {
+    "ko": "물론",
+    "definition": "An expression showing agreement."
+  },
+  "Wait": {
+    "ko": "기다려",
+    "definition": "Stay until something happens."
+  },
+  "Come": {
+    "ko": "와",
+    "definition": "Move toward the speaker."
+  },
+  "Thanks": {
+    "ko": "고마워",
+    "definition": "An expression of gratitude."
+  },
+  "Okay": {
+    "ko": "좋아",
+    "definition": "An expression showing acceptance."
+  },
+  "cried": {
+    "ko": "외쳤다",
+    "definition": "Called out loudly with strong feeling."
+  },
+  "stronger": {
+    "ko": "더 강한",
+    "definition": "Greater in strength or intensity."
+  },
+  "shattered": {
+    "ko": "깨뜨렸다",
+    "definition": "Suddenly broke the quiet."
+  },
+  "glow": {
+    "ko": "은은한 빛",
+    "definition": "A soft steady light."
+  },
+  "coals": {
+    "ko": "숯불",
+    "definition": "Pieces of fuel glowing with heat."
+  },
+  "warmed": {
+    "ko": "따뜻하게 했다",
+    "definition": "Made something warmer."
+  },
+  "added": {
+    "ko": "덧붙였다",
+    "definition": "Put another item with others."
+  },
+  "Good idea": {
+    "ko": "좋은 생각이야",
+    "definition": "An expression approving a suggestion."
+  },
+  "what": {
+    "ko": "무엇",
+    "definition": "Asks about a thing or information."
+  },
+  "who": {
+    "ko": "누구",
+    "definition": "Asks about a person."
+  },
+  "Why": {
+    "ko": "왜",
+    "definition": "Asks for a reason."
+  },
+  "called": {
+    "ko": "불렀다",
+    "definition": "Spoke loudly to get attention."
+  },
+  "wailed": {
+    "ko": "울부짖었다",
+    "definition": "Cried out in a long sad voice."
+  },
+  "fell": {
+    "ko": "떨어졌다",
+    "definition": "Moved downward after losing support."
+  },
+  "jumped": {
+    "ko": "펄쩍 뛰었다",
+    "definition": "Moved suddenly upward in surprise."
+  },
+  "music": {
+    "ko": "음악",
+    "definition": "Sounds arranged in a pleasing pattern."
+  },
+  "Listen": {
+    "ko": "귀 기울여 들어",
+    "definition": "Pay attention to a sound."
+  },
+  "opened": {
+    "ko": "떴다",
+    "definition": "Moved something from closed to open."
+  },
+  "warned": {
+    "ko": "경고했다",
+    "definition": "Told someone about possible danger."
+  },
+  "wondered": {
+    "ko": "궁금해했다",
+    "definition": "Thought about a question without knowing the answer."
+  },
+  "knelt": {
+    "ko": "무릎을 꿇었다",
+    "definition": "Lowered the body onto the knees."
+  },
+  "parted": {
+    "ko": "갈라졌다",
+    "definition": "Moved apart to leave an opening."
+  },
+  "roared": {
+    "ko": "포효했다",
+    "definition": "Made a very loud deep animal sound."
+  },
+  "thundered": {
+    "ko": "우르르 달렸다",
+    "definition": "Moved with a loud rumbling noise."
+  },
+  "crept": {
+    "ko": "살금살금 다가갔다",
+    "definition": "Moved slowly and quietly."
+  },
+  "blew": {
+    "ko": "불었다",
+    "definition": "Sent air out through the mouth."
+  },
+  "froze": {
+    "ko": "얼어붙듯 멈췄다",
+    "definition": "Suddenly stopped moving."
+  },
+  "snarled": {
+    "ko": "으르렁거렸다",
+    "definition": "Made an angry sound while showing teeth."
+  },
+  "trunk": {
+    "ko": "코끼리의 긴 코",
+    "definition": "An elephant's long flexible nose."
+  },
+  "stepped": {
+    "ko": "발을 내디뎠다",
+    "definition": "Moved by taking a step."
+  },
+  "still": {
+    "ko": "꼼짝하지 않는",
+    "definition": "Not moving."
+  },
+  "gathered": {
+    "ko": "챙겨 모았다",
+    "definition": "Brought things together."
+  },
+  "knew": {
+    "ko": "알고 있었다",
+    "definition": "Had knowledge of something."
+  },
+  "yelled": {
+    "ko": "소리쳤다",
+    "definition": "Shouted in a very loud voice."
+  },
+  "slowly": {
+    "ko": "천천히",
+    "definition": "At a low speed."
   }
 }
