@@ -51,10 +51,6 @@
     "ko": "사라졌다",
     "definition": "Disappeared from sight."
   },
-  "trembled": {
-    "ko": "떨렸다",
-    "definition": "Shook slightly from cold or fear."
-  },
   "flute": {
     "ko": "피리",
     "definition": "A musical instrument played by blowing air into it."
@@ -78,5 +74,381 @@
   "reindeer": {
     "ko": "순록",
     "definition": "A deer with large antlers that lives in cold places."
+  },
+  "passing": {
+    "ko": "지나가던",
+    "definition": "Moving past a place."
+  },
+  "bathing suit": {
+    "ko": "수영복",
+    "definition": "Clothes worn for swimming."
+  },
+  "change out of": {
+    "ko": "갈아 벗다",
+    "definition": "To take off clothes and put on different ones."
+  },
+  "prepared": {
+    "ko": "준비가 된",
+    "definition": "Ready for what may happen."
+  },
+  "darted": {
+    "ko": "쏜살같이 달려갔다",
+    "definition": "Moved suddenly and quickly."
+  },
+  "sighed": {
+    "ko": "한숨을 쉬었다",
+    "definition": "Let out a long breath."
+  },
+  "gave up": {
+    "ko": "포기했다",
+    "definition": "Stopped trying to do something."
+  },
+  "patches": {
+    "ko": "군데군데 작은 부분들",
+    "definition": "Small areas different from the surrounding area."
+  },
+  "clearing": {
+    "ko": "숲속 빈터",
+    "definition": "An open area among trees."
+  },
+  "rope ladder": {
+    "ko": "밧줄 사다리",
+    "definition": "A ladder with rope sides."
+  },
+  "window sill": {
+    "ko": "창턱",
+    "definition": "The ledge at the bottom of a window."
+  },
+  "carved": {
+    "ko": "새겨진",
+    "definition": "Cut into a surface to make a shape."
+  },
+  "moonstone": {
+    "ko": "월장석",
+    "definition": "A stone with a soft shining appearance."
+  },
+  "journeys": {
+    "ko": "여행들",
+    "definition": "Trips from one place to another."
+  },
+  "stacks": {
+    "ko": "쌓아 놓은 더미들",
+    "definition": "Groups of things placed one on another."
+  },
+  "silent": {
+    "ko": "고요한",
+    "definition": "Making no sound."
+  },
+  "grove": {
+    "ko": "작은 숲",
+    "definition": "A small group of trees."
+  },
+  "bare": {
+    "ko": "잎이 없는",
+    "definition": "Without leaves or covering."
+  },
+  "plain": {
+    "ko": "평원",
+    "definition": "A large flat area of land."
+  },
+  "cliffs": {
+    "ko": "절벽들",
+    "definition": "High steep faces of rock."
+  },
+  "wrapped": {
+    "ko": "감쌌다",
+    "definition": "Covered by winding something around."
+  },
+  "tightly": {
+    "ko": "꽉 단단히",
+    "definition": "Firmly with little space left."
+  },
+  "freeze": {
+    "ko": "얼어붙다",
+    "definition": "To become extremely cold or turn to ice."
+  },
+  "mission": {
+    "ko": "임무",
+    "definition": "An important task to complete."
+  },
+  "figures": {
+    "ko": "멀리 보이는 사람 형체들",
+    "definition": "People seen without clear details."
+  },
+  "spears": {
+    "ko": "창들",
+    "definition": "Long weapons with sharp points."
+  },
+  "caption": {
+    "ko": "그림 설명문",
+    "definition": "Words explaining a picture."
+  },
+  "hunted": {
+    "ko": "사냥했다",
+    "definition": "Searched for animals to catch for food."
+  },
+  "traps": {
+    "ko": "덫들",
+    "definition": "Devices or holes used to catch animals."
+  },
+  "hurl": {
+    "ko": "힘껏 던지다",
+    "definition": "To throw with great force."
+  },
+  "peeked": {
+    "ko": "살짝 내다보았다",
+    "definition": "Looked out quickly from a hidden place."
+  },
+  "huddled": {
+    "ko": "바짝 모여 섰다",
+    "definition": "Stayed close together for warmth."
+  },
+  "biting": {
+    "ko": "살을 에는 듯한",
+    "definition": "Extremely cold and unpleasant."
+  },
+  "body heat": {
+    "ko": "체온에서 나오는 열",
+    "definition": "Warmth produced by the body."
+  },
+  "shadowy": {
+    "ko": "그늘져 어두운",
+    "definition": "Dark because there is little light."
+  },
+  "slightly": {
+    "ko": "조금",
+    "definition": "By a small amount."
+  },
+  "stamped": {
+    "ko": "발을 쿵쿵 굴렀다",
+    "definition": "Brought the feet down heavily."
+  },
+  "entrance": {
+    "ko": "입구",
+    "definition": "A place where you go in."
+  },
+  "ancestors": {
+    "ko": "조상들",
+    "definition": "Family members who lived long ago."
+  },
+  "fiercer": {
+    "ko": "더 사나운",
+    "definition": "More dangerous or aggressive."
+  },
+  "borrow": {
+    "ko": "빌리다",
+    "definition": "To use something and return it later."
+  },
+  "coats": {
+    "ko": "외투들",
+    "definition": "Outer clothes that keep the body warm."
+  },
+  "skins": {
+    "ko": "동물 가죽들",
+    "definition": "The outer coverings of animals."
+  },
+  "lamp": {
+    "ko": "등잔",
+    "definition": "A device that gives light."
+  },
+  "paintings": {
+    "ko": "그림들",
+    "definition": "Pictures made with paint."
+  },
+  "branches": {
+    "ko": "나뭇가지들",
+    "definition": "Parts of a tree growing from its trunk."
+  },
+  "trapping": {
+    "ko": "덫으로 잡는",
+    "definition": "Catching an animal in a trap."
+  },
+  "slipped": {
+    "ko": "미끄러졌다",
+    "definition": "Lost a firm footing or grip."
+  },
+  "mask": {
+    "ko": "가면",
+    "definition": "A covering worn over the face."
+  },
+  "bone": {
+    "ko": "뼈",
+    "definition": "A hard part inside an animal body."
+  },
+  "gift": {
+    "ko": "선물",
+    "definition": "Something given freely to another person."
+  },
+  "parade": {
+    "ko": "행렬",
+    "definition": "A line of people or animals moving together."
+  },
+  "whispered": {
+    "ko": "속삭였다",
+    "definition": "Spoke very quietly."
+  },
+  "slinking": {
+    "ko": "살금살금 움직이는",
+    "definition": "Moving quietly to avoid being noticed."
+  },
+  "growled": {
+    "ko": "으르렁거렸다",
+    "definition": "Made a low threatening sound."
+  },
+  "charged": {
+    "ko": "돌진했다",
+    "definition": "Rushed forward with force."
+  },
+  "sunset": {
+    "ko": "해 질 녘",
+    "definition": "The time when the sun goes below the horizon."
+  },
+  "grabbed": {
+    "ko": "붙잡았다",
+    "definition": "Took hold of something suddenly."
+  },
+  "reached": {
+    "ko": "도착했다",
+    "definition": "Arrived at a place."
+  },
+  "patted": {
+    "ko": "가볍게 쓰다듬었다",
+    "definition": "Touched gently with the hand."
+  },
+  "hurry": {
+    "ko": "서두르다",
+    "definition": "To move or act quickly."
+  },
+  "followed": {
+    "ko": "뒤따랐다",
+    "definition": "Went after someone."
+  },
+  "climbing": {
+    "ko": "기어오르는",
+    "definition": "Moving upward using hands and feet."
+  },
+  "sooner": {
+    "ko": "더 일찍",
+    "definition": "Before a later time."
+  },
+  "lesson": {
+    "ko": "수업",
+    "definition": "A period of learning a skill."
+  },
+  "corner": {
+    "ko": "구석",
+    "definition": "A place where two sides meet."
+  },
+  "grab": {
+    "ko": "붙잡다",
+    "definition": "To take hold of something quickly."
+  },
+  "stared": {
+    "ko": "빤히 바라보았다",
+    "definition": "Looked steadily with wide eyes."
+  },
+  "pointed": {
+    "ko": "가리켰다",
+    "definition": "Showed a direction with a finger."
+  },
+  "shook": {
+    "ko": "흔들었다",
+    "definition": "Moved back and forth."
+  },
+  "shivering": {
+    "ko": "몸을 떠는",
+    "definition": "Shaking because of cold or fear."
+  },
+  "shadows": {
+    "ko": "그림자들",
+    "definition": "Dark shapes where light is blocked."
+  },
+  "fresh": {
+    "ko": "상쾌한",
+    "definition": "Clean and pleasantly cool."
+  },
+  "strange": {
+    "ko": "이상한",
+    "definition": "Unusual or unfamiliar."
+  },
+  "wonder": {
+    "ko": "궁금해하다",
+    "definition": "To want to know something."
+  },
+  "complete": {
+    "ko": "완수된",
+    "definition": "Finished with nothing left to do."
+  },
+  "covered": {
+    "ko": "덮었다",
+    "definition": "Put something over another thing."
+  },
+  "deep": {
+    "ko": "깊은",
+    "definition": "Extending far below the surface."
+  },
+  "disappear": {
+    "ko": "사라지다",
+    "definition": "To go out of sight."
+  },
+  "careful": {
+    "ko": "조심하는",
+    "definition": "Taking care to avoid danger."
+  },
+  "warmer": {
+    "ko": "더 따뜻한",
+    "definition": "Having more heat."
+  },
+  "footprints": {
+    "ko": "발자국들",
+    "definition": "Marks left by feet."
+  },
+  "shoulder": {
+    "ko": "어깨",
+    "definition": "The body part between the neck and arm."
+  },
+  "shouted": {
+    "ko": "소리쳤다",
+    "definition": "Spoke in a very loud voice."
+  },
+  "suddenly": {
+    "ko": "갑자기",
+    "definition": "Quickly and unexpectedly."
+  },
+  "gently": {
+    "ko": "부드럽게",
+    "definition": "In a soft and careful way."
+  },
+  "horizon": {
+    "ko": "지평선",
+    "definition": "The line where earth seems to meet sky."
+  },
+  "distance": {
+    "ko": "멀리 떨어진 곳",
+    "definition": "A place far from where you are."
+  },
+  "held": {
+    "ko": "쥐고 있었다",
+    "definition": "Kept something in the hand."
+  },
+  "slid": {
+    "ko": "미끄러져 움직였다",
+    "definition": "Moved smoothly along a surface."
+  },
+  "pulled": {
+    "ko": "당겼다",
+    "definition": "Moved something toward oneself."
+  },
+  "ladder": {
+    "ko": "사다리",
+    "definition": "Equipment with steps for climbing."
+  },
+  "pocket": {
+    "ko": "주머니",
+    "definition": "A small bag sewn into clothes or a backpack."
+  },
+  "neck": {
+    "ko": "목",
+    "definition": "The part joining the head to the body."
   }
 }
