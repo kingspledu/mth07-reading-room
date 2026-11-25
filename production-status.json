@@ -2,7 +2,7 @@
   "book": 7,
   "parts": 13,
   "text_verified": true,
-  "integrated_scenes": 233,
+  "integrated_scenes": 223,
   "remaining_preliminary_batches": 5,
   "character_reference": "Book4 actual visual sheet",
   "image_generation_status": "body_in_progress",
@@ -26,5 +26,7 @@
     "ch04-sc06 premature wall paintings",
     "chapter07 batch2 panels 3,7-11: riding continuity",
     "chapter09 panels 10,12,15: riding and clothing continuity"
-  ]
+  ],
+  "remaining_batch_estimate_status": "recount_pending_full_source_coverage_audit",
+  "review_required_scenes": 10
 }
